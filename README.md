@@ -1,4 +1,3 @@
-# E-Fecaf Global - Monitoramento Contínuo de Performance
 # 🚀 E-Fecaf Global - Monitoramento Contínuo de Performance
 
 ![Status](https://img.shields.io/badge/status-ativo-success)
